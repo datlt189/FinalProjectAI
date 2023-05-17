@@ -10,3 +10,5 @@ Vehicle Counting and Classification (motorbike or car)
 ☑ The objects (vehicles, things, etc) MUST stand apart at a distance.
 
 -So, to test, please use the images I have prepared in the "testimg" folder. If you use another image, it will still work, but there is a possibility of inaccuracy. This is because I did not use a pre-trained model to detect the vehicle against the background; instead, I used image processing techniques. As a result, it may not be able to detect vehicles if the background is too complex or if the vehicles are not stand apart at a distance.
+
+To view dataset model please click here: https://drive.google.com/drive/folders/1MXSFWunEZABznxzs3XNcaP49SKEjMM-P?usp=sharing

@@ -1,5 +1,5 @@
 # FinalProjectAI
-Vehicle Counting and Classification (motorbike or car)
+Vehicle Counting and Classification (motorbike or car);
 ⚠️ Please pay attention to the following notes about the image to be processed:
 ☑ The size SHOULD be of moderate dimensions (around 1280x720).
 ☑ MUST have clean background.

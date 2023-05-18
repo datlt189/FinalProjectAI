@@ -11,7 +11,7 @@ from keras.utils import load_img
 from keras.utils.image_utils import img_to_array
 
 # Load model
-model = load_model('D:/AI/finalProject/model/vehicle_counting_and_classification.h5')
+model = load_model('vehicle_counting_and_classification.h5')
 
 def main():
     # Title the web
